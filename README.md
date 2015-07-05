@@ -12,10 +12,3 @@ The algorithm used is based on [Great Circle distance](https://en.wikipedia.org/
 
 (core/distance [38.736946 -9.142685] [40.730610 -73.935242]) ; => {:miles 3364.6154140785607, :kms 5414.824255526726}
 ```
-
-## License
-
-Copyright © 2015
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
