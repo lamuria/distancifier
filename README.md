@@ -1,7 +1,9 @@
-# distancifier
+# distancifier [![Build Status](https://travis-ci.org/lamuria/distancifier.svg?branch=master)](https://travis-ci.org/lamuria/distancifier)
+
+![Clojars Project](http://clojars.org/distancifier/latest-version.svg)
 
 A Clojure library designed to calculate a distance between two coordinates on Earth.
-The algorithm used is based on [Great Circle distance](https://en.wikipedia.org/wiki/Great-circle%5Fdistance)
+The algorithm used is based on [Great Circle distance](https://en.wikipedia.org/wiki/Great-circle%5Fdistance).
 
 ## Usage
 
