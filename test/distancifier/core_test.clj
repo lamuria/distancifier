@@ -16,5 +16,6 @@
           new-york-point [40.730610 -73.935242]
           expected-result {:kms 5414.824255526726 :miles 3364.6154140785607}
           actual-result (core/distance lisbon-point new-york-point)]
+      (println actual-result)
       (is (= expected-result
              actual-result)))))
